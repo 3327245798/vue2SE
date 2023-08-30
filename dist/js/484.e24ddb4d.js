@@ -1,0 +1,1 @@
+(self["webpackChunkvue2"]=self["webpackChunkvue2"]||[]).push([[484],{70484:function(){}}]);

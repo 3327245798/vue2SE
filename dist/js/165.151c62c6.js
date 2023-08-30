@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2"]=self["webpackChunkvue2"]||[]).push([[165],{35165:function(n,c,s){s.r(c),s.d(c,{a:function(){return t}});var t='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">\n\n<path d="M316.4,893.4c-5.8,0-11.6-2.3-15.8-6.9c-8-8.7-7.5-22.3,1.2-30.4L676.1,511L301.7,165.7c-8.7-8-9.3-21.7-1.2-30.4\n\tc8.1-8.7,21.7-9.3,30.4-1.2l391.5,361.1c4.4,4.1,6.9,9.8,6.9,15.8s-2.5,11.7-6.9,15.8L330.9,887.7\n\tC326.8,891.5,321.6,893.4,316.4,893.4z"/>\n</svg>\n'}}]);
+//# sourceMappingURL=165.151c62c6.js.map
